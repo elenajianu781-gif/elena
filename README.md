@@ -1,6 +1,6 @@
 A Gomoku game built in Python, 
 featuring the classic five-in-a-row gameplay 
-and a simple, interactive game experience.
+and a simple, interactive game experience. 
 Python-based implementation of the
 classic Gomoku strategy game,
 featuring interactive gameplay,
